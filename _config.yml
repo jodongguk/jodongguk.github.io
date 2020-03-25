@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Dongguk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "맨날 맨날 놀고 먹고 싶습니다."
+  location         : "Jeju-do, Republic of Korea"
   email            :
   links:
     - label: "Email"
